@@ -34,7 +34,7 @@ A smart embedded system that automatically controls lighting and fan speed based
 ## Hardware & Tools
 
 - **Microcontroller:** ATmega32
-- **Development Tools:** Atmel Studio / AVR-GCC / Proteus for simulation
+- **Development Tools:** Eclipse / AVR-GCC / Proteus for simulation
 
 ---
 
