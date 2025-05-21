@@ -70,18 +70,6 @@ A smart embedded system that automatically controls lighting and fan speed based
 - Line 0: [FAN is ON / OFF] ← Fan status or alert
 - Line 1: Temp=XX  LDR=YY % ← Sensor readings
 
- ## File Structure
-
-- main.c              → Main system logic  
-- Buzzer.c / Buzzer.h → Buzzer driver  
-- LED.c / LED.h       → LED control driver  
-- LDR.c / LDR.h       → Light intensity sensor  
-- lm35_sensor.c / .h  → Temperature sensor  
-- adc.c / adc.h       → Analog-to-digital converter  
-- Flame_Sensor.c / .h → Flame detection  
-- DC_Motor.c / .h     → Fan (DC motor) control  
-- lcd.c / lcd.h       → LCD display  
-
 ---
 
 ## Author
